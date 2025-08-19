@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ricecove.tech/sitemap.xml
